@@ -1,8 +1,6 @@
 /*
-Activity 1 Part 1.a
-Create a program that will light up a certain LED in different patterns where the
-LEDs will light up one by one until are all lit then turn off one by one until all
-are off.
+Activity 1 Part 1.d
+make your own pattern.
 */
 
 const int ledCount = 8;
