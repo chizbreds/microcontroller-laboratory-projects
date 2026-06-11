@@ -5,7 +5,7 @@ are off.
 */
 
 const int ledCount = 8;
-int ledArray[ledCount] = {3, 4, 5, 6, 7, 8, 9, 10}
+int ledArray[ledCount] = {3, 4, 5, 6, 7, 8, 9, 10};
 
 void setup() {
     for (int i = 0; i < ledCount; i++) {
