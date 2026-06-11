@@ -1,3 +1,10 @@
+/*
+Activity 1 Part 1.a
+Create a program that will light up a certain LED in different patterns where the
+LEDs will light up one by one until are all lit then turn off one by one until all
+are off.
+*/
+
 const int ledCount = 8;
 int ledArray[ledCount] = {3, 4, 5, 6, 7, 8, 9, 10}
 
